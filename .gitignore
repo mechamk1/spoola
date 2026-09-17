@@ -1,0 +1,7 @@
+#ingestor/... folderes:
+ingestor/.venv
+ingestor/artwork
+ingestor/src/__pycache__
+
+#ingestor/...fedredr3 files:
+ingestor/library.db
